@@ -11,9 +11,9 @@ body
 #cabecera
 {
     background: #33A;
-    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
-    color:white;
-    font-weigth: bold;
+    box-shadow: 0px 2px 20px 0 px rgba(0,0,0,0.5);
+    color: white;
+    font: bold;
     margin: 0;
     padding: 0.5em;
 }
@@ -21,7 +21,7 @@ body
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
-    font-wiegth:normal;
+    font-weight: normal;
     font-size: 0.8em;
 }
 
