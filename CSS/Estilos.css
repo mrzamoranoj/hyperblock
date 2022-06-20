@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: red;
     text-align: center;
     font-family: "arial";
     font: 16px;
@@ -13,7 +13,7 @@ body
     background: #33A;
     box-shadow: 0px 2px 20px 0 px rgba(0,0,0,0.5);
     color: white;
-    font: Arial;
+    font: bold;
     margin: 0;
     padding: 0.5em;
 }
