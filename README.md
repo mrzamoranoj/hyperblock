@@ -11,5 +11,6 @@ Un blog para el curso de [Git y Github](https://github.com/ "Git y Github") de P
 * Las personalidades multiples de Freddy
 * Creado por el incríble Platzi team
 * Incluye ejemplos en windows, linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio.: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://github.com/mrzamoranoj/hyperblock "a ver el curso").
